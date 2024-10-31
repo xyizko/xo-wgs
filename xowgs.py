@@ -9,10 +9,10 @@
 # ]
 # ///
 
-##########################################
-Source - https://github.com/xyizko/xo-wgs
-Pupose - Testnet ONLY !
-##########################################
+#############################################
+# Source - https://github.com/xyizko/xo-wgs #
+# Pupose - Testnet ONLY !                   # 
+#############################################
 
 # --- Imports ---
 
