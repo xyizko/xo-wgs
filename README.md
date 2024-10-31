@@ -28,6 +28,8 @@
 
 # 🎥 Demo
 
+![](./gfx/wgs.gif)
+
 # 🤔What
 
 > Single callable python script that geenrated 10 ethereum testnet wallets. This script with [in-line metadata](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies) can be called directly form the cli. 
@@ -40,7 +42,13 @@
 
 # 💽 Setup
 
-Just execute the following command 
+1. Install [uv](curl -LsSf https://astral.sh/uv/install.sh | sh)
+
+```sh 
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+2. execute the following command 
 
 ```ml
 uv run --script https://raw.githubusercontent.com/xyizko/xo-wgs/refs/heads/main/xowgs.py
