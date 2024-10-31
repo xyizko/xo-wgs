@@ -43,7 +43,7 @@
 Just execute the following command 
 
 ```ml
-uv run --script w1.py
+uv run --script https://raw.githubusercontent.com/xyizko/xo-wgs/refs/heads/main/xowgs.py
 ```
 - A new `txt`file will be generated with the wallets
 
